@@ -511,3 +511,14 @@ for index, row in data.iterrows():
 
 one_hot_df.head()
 print(one_hot_df.head())
+
+
+# """username = input('Введите имя: ')
+# if username == 'Маша':
+#     print('Ура, это же МАША!')
+# elif username == 'Марина':
+#     print('Мы вас ждали, Марина')
+# elif username == 'Ильнар':
+#     print('Ильнар - топ')
+# else:
+#     print('Привет,', username)"""
